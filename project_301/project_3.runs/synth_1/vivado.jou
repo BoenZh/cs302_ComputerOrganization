@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Thu Apr 14 14:40:05 2016
+# Process ID: 7160
+# Log file: C:/Users/zhangbb/Desktop/project_3/project_3.runs/synth_1/adder_4bit.vds
+# Journal file: C:/Users/zhangbb/Desktop/project_3/project_3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source adder_4bit.tcl

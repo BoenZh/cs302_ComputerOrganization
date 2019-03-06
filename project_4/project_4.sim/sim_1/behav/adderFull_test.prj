@@ -1,0 +1,4 @@
+vhdl xil_defaultlib "C:/Users/zhangbb/Desktop/project_4/project_4.srcs/sources_1/new/adder_half.vhd"
+vhdl xil_defaultlib "C:/Users/zhangbb/Desktop/project_4/project_4.srcs/sources_1/new/adder_full.vhd"
+vhdl xil_defaultlib "C:/Users/zhangbb/Desktop/project_4/project_4.srcs/sim_1/new/adderFull_test.vhd"
+verilog xil_defaultlib "C:/Xilinx/Vivado/2014.2/data/verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+--debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "and_gate_testbench_behav" --prj "C:/Users/zhangbb/Desktop/aaa/project_1/project_1.sim/sim_1/behav/and_gate_testbench.prj" "xil_defaultlib.and_gate_testbench" 

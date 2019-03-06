@@ -1,0 +1,5 @@
+Running: xsim.dir/adder_test_behav/xsimk.exe -simmode gui -wdb adder_test_behav.wdb -simrunnum 0 -socket 2336
+Design successfully loaded
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation CPU Usage: 77 ms

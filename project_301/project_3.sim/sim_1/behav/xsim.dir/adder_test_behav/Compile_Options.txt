@@ -1,0 +1,1 @@
+--debug "typical" --relax -L "xil_defaultlib" -L "secureip" --snapshot "adder_test_behav" --prj "C:/Users/zhangbb/Desktop/project_3/project_3.sim/sim_1/behav/adder_test.prj" "xil_defaultlib.adder_test" 
